@@ -1,7 +1,7 @@
 import './App.css'
 import {Routes, Route} from "react-router-dom"
 import Login from './pages/Login.jsx'
-import Signup from './pages/signup.jsx'
+import Signup from './pages/Signup.jsx'
 import Home from './pages/Home.jsx'
 import Header from './component/Header'
 import { useSelector } from 'react-redux'
